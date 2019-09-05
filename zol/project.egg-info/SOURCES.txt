@@ -10,4 +10,5 @@ zol/middlewares.py
 zol/pipelines.py
 zol/settings.py
 zol/spiders/__init__.py
+zol/spiders/bian_wallpaper.py
 zol/spiders/wallpaper.py
